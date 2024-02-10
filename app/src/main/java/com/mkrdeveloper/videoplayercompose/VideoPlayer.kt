@@ -1,4 +1,4 @@
-package com.mkrdeveloper.videoplayercompose.ui.theme
+package com.mkrdeveloper.videoplayercompose
 
 import android.net.Uri
 import android.widget.MediaController

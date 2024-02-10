@@ -1,4 +1,4 @@
-package com.mkrdeveloper.videoplayercompose.ui.theme
+package com.mkrdeveloper.videoplayercompose
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
